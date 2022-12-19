@@ -1,3 +1,13 @@
+<div align=center>
+<h3>🎄Kim Hwiwon, Mary🎄</h3> 
+</div>
+
+<div align=center>
+배움이 빠른, 소통을 좋아하는 개발자
+</div>
+
+<br>
+<br>
 
 **Server📡**
 <br>
