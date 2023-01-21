@@ -31,6 +31,3 @@
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF"/>
 
-<br>
-
-![Hwiwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwiwonK&show_icons=true&theme=radical)
